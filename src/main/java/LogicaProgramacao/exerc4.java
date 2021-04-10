@@ -3,7 +3,7 @@ package LogicaProgramacao;
 import java.util.Scanner;
 
 public class exerc4 {
-	public void main(String args[]) {
+	public static void main(String args[]) {
 		Scanner ler = new Scanner(System.in);
 		double ipi, qtd1, qtd2, valor1, valor2, valorTotal;
 		int cod1, cod2;
